@@ -4,7 +4,7 @@
 AppFrasesMotivacionales es una aplicación Android desarrollada en Java que muestra frases motivacionales aleatorias a los usuarios. La app permite inspirar y motivar a los usuarios mediante frases de distintos autores.
 
 ## Herramientas Utilizadas
-- **Android Studio**: Entorno de desarrollo para la app Android.
+- **Android Studio**: Entorno de desarrollo para la app Android utilizando el agente de Claude Sonnet 4.
 - **Java**: Lenguaje de programación principal.
 - **GitHub**: Control de versiones y repositorio del proyecto.
 - **APIs externas**: Utilizamos api.quotable.io.
